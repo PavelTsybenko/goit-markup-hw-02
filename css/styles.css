@@ -34,7 +34,7 @@ ul {
         line-height: 1.19;
         text-decoration: none;
         letter-spacing: 0.03em;
-        color: #212121;
+        color:var(--primery-text-color);
     }
     .logo-color{
         color: var(--accent-color);
@@ -130,7 +130,7 @@ color: var(--primery-text-color);
 .caption {
     font-size: 18px;
     font-weight: 500;
-    font-size: 18px;
+    
     line-height: 2;
     text-decoration: none;  
     letter-spacing: 0.06em;
